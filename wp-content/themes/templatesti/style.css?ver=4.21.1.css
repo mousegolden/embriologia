@@ -1,0 +1,40 @@
+/*
+ Theme Name:   Templatesti
+ Theme URI:    http://www.operacaophp.uff.br/
+ Description:  Template STI
+ Author:       Operação PHP
+ Author URI:   http://www.sti.uff.br
+ Template:     Divi
+ Version:      1.0.0
+*/
+.et_fixed_nav.et_show_nav #page-container, .et_non_fixed_nav.et_transparent_nav.et_show_nav #page-container {
+    
+   padding-top: 0px !important;
+    
+}
+
+.et_fixed_nav #main-header, .et_fixed_nav #top-header {
+    
+    position: relative;
+        
+}
+
+div#wrapper-barra-brasil {
+    
+    max-width: 1027px !important;
+    
+}
+
+body.admin-bar.et_fixed_nav #main-header, body.admin-bar.et_fixed_nav #top-header, body.admin-bar.et_non_fixed_nav.et_transparent_nav #main-header, body.admin-bar.et_non_fixed_nav.et_transparent_nav #top-header {
+
+top: 0px !important;
+
+}
+
+#main-header {
+	width: 100% !important;
+}
+
+#footer-info {
+	color:white;
+}
